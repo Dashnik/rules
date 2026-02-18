@@ -6,3 +6,4 @@ Follow rules:
 - @main.md
 - @python.md
 - @git.md
+- @frontend.md
