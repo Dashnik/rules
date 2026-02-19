@@ -7,3 +7,4 @@ Follow rules:
 - @python.md
 - @git.md
 - @frontend.md
+- @translate.md
