@@ -9,3 +9,5 @@ Follow rules:
 - @frontend.md
 - @translate.md
 - @payments.md
+- @limits-and-credits.md
+- @jobs.md
