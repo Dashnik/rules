@@ -8,3 +8,4 @@ Follow rules:
 - @git.md
 - @frontend.md
 - @translate.md
+- @payments.md
