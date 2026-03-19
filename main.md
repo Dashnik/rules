@@ -11,3 +11,4 @@ Follow rules:
 - @payments.md
 - @limits-and-credits.md
 - @jobs.md
+- @analytics.md
